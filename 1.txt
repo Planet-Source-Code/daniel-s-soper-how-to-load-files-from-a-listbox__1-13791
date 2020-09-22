@@ -1,0 +1,1 @@
+If you can read this then you've successfully opened the file "1.txt"!
